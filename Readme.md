@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Елена Градович](https://up.htmlacademy.ru/adaptive/17/user/425039).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
